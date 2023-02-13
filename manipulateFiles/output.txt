@@ -1,0 +1,26 @@
+		 Pipeline Run Stats from 02-13-23 03:06:28 AM UTC to 02-13-23 04:06:28 AM UTC
+===============================================================================================================
+
+
+[Succeded]
+___________
+
+pipeline_tws_job4
+pipeline_tws_job
+
+[Failed]
+_________
+
+pipeline_tws_job6
+pipeline_tws_job3
+
+[InProgress]
+_____________
+
+pipeline_tws_job2
+
+[Cancelled]
+___________
+
+pipeline_tws_job5
+
