@@ -1,0 +1,36 @@
+{
+	"pipelineName": "pipeline_tws_job",
+	"status": "succeded"
+}
+{
+	"pipelineName": "pipeline_tws_job2",
+	"status": "InProgress"
+}
+{
+	"pipelineName": null
+	"pipelineName": "pipeline_tws_job3",
+}
+{
+	"pipelineName": "null",
+	"pipelineName": "pipeline_tws_job3",
+	"pipelineName": "pipeline_tws_job3",
+	"status": "failed"
+}
+{
+	"pipelineName": "pipeline_tws_job5",
+	"status": "cancelled"
+}
+{
+	"pipelineName": "pipeline_tws_job4",
+	"pipelineName": "null",
+	"status": "succeded"
+}
+{
+	"pipelineName": "pipeline_tws_job6",
+	"status": "failed"
+}
+
+{
+	"pipelineName": "pipeline_tws_jobx10",
+	"status": "fai"
+}
